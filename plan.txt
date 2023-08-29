@@ -1,0 +1,15 @@
+
+- NodeJs PROJECT expressjs
+- room.ejs to render view
+- creating unique room id using uuid()
+- getMediaDevice to access our webcam
+
+
+
+- Creating messages 
+- Adding mute button accessing our audio
+- Adding stop video
+
+// socket io for real time communication
+// peerjs for webrtc service...
+// peerjs wraps the socket.emit
